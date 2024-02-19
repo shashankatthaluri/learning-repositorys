@@ -14,10 +14,10 @@ Python is like a super-friendly language you can use to tell your computer what 
 - **Does a Lot of Stuff:** It's not just for one thing. You can make websites, play with numbers, and more. 
 - **Supportive Community:** There are tons of people who love Python and are happy to help out if you get stuck.
 
-### 👨‍🍳 What's Cooking Here? 
+## 👨‍🍳 What's Cooking Here? 
 
 Expect a mix of my learnings, snippets of code, and a bit of chit-chat about each coding escapade.
 
-### My Current Python Adventure:
+## My Current Python Adventure:
 
 Join me on this Python rollercoaster. We're diving into the Python realm, having a blast, and unlocking the magic of coding! 🌐🚀
