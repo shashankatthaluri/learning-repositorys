@@ -7,7 +7,7 @@ Here's a quick look at different types of data in Python and how you might use t
 | Data Type | Description                          | Example          |
 | --------- | ------------------------------------ | ---------------- |
 | `int`     | Whole numbers                        | 15               |
-| `float`   | Decimal point                        | 15.7             |
+| `float`   | Decimal numbers                      | 15.7             |
 | `str`     | Text; a series of characters         | "Hello, World!"  |
 | `bool`    | True or False values                 | True             |
 | `list`    | A list that can change (mutable list)| [5, 8, 12]        |
