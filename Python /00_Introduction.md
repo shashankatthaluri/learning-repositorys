@@ -25,3 +25,9 @@ Join me on this Python rollercoaster. We're diving into the Python realm, having
 ## 🗺 Where did I learn ?
 
 I embarked on my Python journey during my second year of college, learning the ropes right from the curriculum itself. 🎓💻
+
+
+
+## ⚠ Disclaimer and Disclosure
+
+This notes was prepared by mirayatech. I made few changes and add few sections to make it easy to understand. 
