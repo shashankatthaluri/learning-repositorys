@@ -18,6 +18,6 @@ Python is like a super-friendly language you can use to tell your computer what 
 
 Expect a mix of my learnings, snippets of code, and a bit of chit-chat about each coding escapade.
 
-## My Current Python Adventure:
+## 🌐 Current Python Adventure:
 
-Join me on this Python rollercoaster. We're diving into the Python realm, having a blast, and unlocking the magic of coding! 🌐🚀
+Join me on this Python rollercoaster. We're diving into the Python realm, having a blast, and unlocking the magic of coding! 🚀
