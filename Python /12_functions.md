@@ -2,7 +2,7 @@
 
 - functions are like neatly packaged boxes of code designed to do specific tasks, where the `def` keyword and `return` statements hold the key. 🔧
 
-## def 🛠️
+## def  🛠️
 
 - The `def` keyword signals the start of defining a function.
 
