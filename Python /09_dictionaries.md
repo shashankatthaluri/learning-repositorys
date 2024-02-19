@@ -1,4 +1,4 @@
-# Dictionaries 📚
+# Mastering Dictionaries 📚
 
 - Dictionaries store data in key:value pairs. 🗝️
 - They are unordered, changeable, and do not allow duplicates. 🔀
@@ -23,7 +23,7 @@ animals = dict(cat='meow', dog='woof', cow='moo')
 
 ## Accessing Items 🔑
 
-- Access items using their key names.
+- Key names are the keys to accessing the treasures.
 
 ```python
 x = person["age"]
@@ -34,15 +34,15 @@ x = person["age"]
 - Use loops to iterate through dictionaries.
 
 ```python
-# Print values
+# Echoing values
 for value in person.values():
     print(value)
 
-# Print keys
+# Echoing keys
 for key in person.keys():
     print(key)
 
-# Print keys and values
+# Echoing both keys and values
 for key, value in person.items():
     print(key, value)
 ```
