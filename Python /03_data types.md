@@ -1,8 +1,8 @@
 # Understanding Python Data Types 📊
 
-## 📝 Data Types
+## 📝 Data Types Overview
 
-Here's a quick look at different types of data in Python and how you might use them.
+Let's dive into the diverse world of data types in Python and explore their applications.
 
 | Data Type | Description                          | Example          |
 | --------- | ------------------------------------ | ---------------- |
