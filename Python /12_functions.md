@@ -46,7 +46,7 @@ def add(a, b):
 total_sum = add(7, 8)  #  # Output: the total_sum variable will hold the value 15.
 ```
 
-## void_fuction 🔍
+## Void_fuction 🔍
 
 - Not all functions give something back. Some just do things without handing out a prize. This emptiness is like a silent companion called None in Python.
 
