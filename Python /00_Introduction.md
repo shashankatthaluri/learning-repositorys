@@ -1,6 +1,6 @@
 # Let's Dive into Python! 🐍
 
-Yo! Welcome to my Python playground. 💻
+Welcome to my Python playground. 💻
 
 Here, I'll be sharing my journey of getting the hang of Python programming. It's like a diary, but for coding stuff. Exciting!
 
