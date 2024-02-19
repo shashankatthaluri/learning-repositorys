@@ -1,8 +1,7 @@
 # Mastering Variables in Python 🛠️
-````markdown
-
 ## 📦 Variables
 
+````markdown
 Variables act as containers, holding various data values.
 
 - They need to be given a value before they can be used.
