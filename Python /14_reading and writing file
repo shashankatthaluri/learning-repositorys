@@ -29,7 +29,7 @@ file, which are encoded in a specific encoding.
 
 ## open files without using `with` statement 
 
-````python    
+```python    
     
     # Open files without using 'with' statement.
     file = open('src/files/multi_line_file.txt', 'r')
@@ -47,9 +47,9 @@ file, which are encoded in a specific encoding.
     file.close()
 
     assert file.closed
-````
+```
 ## Open file using with.
-````python
+```python
 
     # Open file using with.
     with open('src/files/multi_line_file.txt', 'r') as file:
@@ -62,7 +62,7 @@ file, which are encoded in a specific encoding.
         )
 
     assert file.closed
-````
+```
 - If you’re not using the with keyword, then you should call f.close() to close the file and
 - immediately free up any system resources used by it. If you don’t explicitly close a file,
 - Python’s garbage collector will eventually destroy the object and close the open file for you,
