@@ -21,3 +21,7 @@ Expect a mix of my learnings, snippets of code, and a bit of chit-chat about eac
 ## 🌐 Current Python Adventure:
 
 Join me on this Python rollercoaster. We're diving into the Python realm, having a blast, and unlocking the magic of coding! 🚀
+
+## 🗺 Where did I learn ?
+
+I embarked on my Python journey during my second year of college, learning the ropes right from the curriculum itself. 🎓💻
