@@ -16,4 +16,6 @@ Got questions or suggestions? Contact me by sending a message on LinkedIn.
 
 - ‍💼 [LinkedIn](https://www.linkedin.com/in//)
 
-#
+## 🛑 Important Note
+
+Its a collection of learning notes gathered from various sources. I make every effort to acknowledge and credit the origins of the knowledge shared here, apologies in advance for any oversight.
