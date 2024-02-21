@@ -24,13 +24,14 @@ Explore the various types of interfaces, including invasive, non-invasive, and s
 
 1. Company Spotlight 🌟
 
-  Get to know the key players in the BCI field. We highlight existing companies and their cutting-edge research.
+  - Get to know the key players in the BCI field. We highlight existing companies and their cutting-edge research.
 
 2. Future Ideas 💡
 
-  Dive into creative and forward-thinking concepts. This bonus chapter is a treasure trove of ideas for building better products in the future.
+  - Dive into creative and forward-thinking concepts. This bonus chapter is a treasure trove of ideas for building better products in the future.
 
 ## How to Contribute
+
 Excited to contribute? We welcome your insights and expertise! Feel free to:
 
 - Share your knowledge in any of the outlined chapters.
