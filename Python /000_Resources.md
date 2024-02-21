@@ -1,6 +1,6 @@
 ## 📙 Resources for learning python 
 
-Here's a cool collection of learning stuff! 📚👩‍💻 We've got courses, books, articles, and GitHub goodies, plus websites for hands-on practice and fun video tutorials! 🚀 Dive in and soak up the knowledge in a way that suits you best! 🌟
+Here's the best collection of learning stuff for python! 📚👩‍💻 We've got courses, books, articles, and GitHub goodies, plus websites for hands-on practice and fun video tutorials! 🚀 Dive in and soak up the knowledge in a way that suits you best! 🌟
 
 Sharing the resources upfront ensures you can pick the best one for you, learn from anywhere, and most importantly, keep that learning momentum going! 🚀
 
