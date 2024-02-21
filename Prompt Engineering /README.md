@@ -1,6 +1,6 @@
-# Prompt Engineering Learning Journey Diary 📖✨
+# Prompt Engineering Learning Diary 📖✨
 
-Hey there! 👋 Welcome to my learning journey diary! 🚀 I'm diving into the world of prompt engineering, and I'm excited to take you along with me.
+Hey there! 👋 Welcome to my learning diary! 🚀 I'm diving into the world of prompt engineering, and I'm excited to take you along with me.
 
 ## Here's the plan:
 
