@@ -45,7 +45,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites | Cost
 ### Books & articles
 
 Book name | Author | Chapters | Effort | Frequency | Prerequisites | pdf 
-:-- | :--: | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--: | :--: | :--: | :--:
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) | [Al Sweigart](https://twitter.com/AlSweigart) | 20 chapters | 1 chapter/day | self-paced | none | [book](https://automatetheboringstuff.com/#toc)
 [Think Python](http://www.greenteapress.com/thinkpython/) | Allen Downey | 19 chapters | 1 chapter/day | self-paced | none | [book](https://greenteapress.com/thinkpython/thinkpython.pdf)
 [Python for You and Me](http://pymbook.readthedocs.org/en/py3/) | [Kushaldas](https://github.com/kushaldas/pym) | 19 chapters | 1 chapter/day | self-paced | none | [book](https://pymbook.readthedocs.io/en/py3/)
