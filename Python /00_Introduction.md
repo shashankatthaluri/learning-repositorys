@@ -29,10 +29,16 @@ I embarked on my Python journey during my second year of college, learning the r
 
 ## 📙 Resources 
 
-- Python 🐍
-    - [Introduction to programming using Python](https://www.edx.org/course/introduction-to-programming-using-python)
-    - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
-    - [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+### Python 🐍
+
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Introduction to programming using Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) | HarvardX | 10 weeks | 3-9 hours/week | self-paced | none
+[Programming for Everybody (Getting Started with Python)](https://)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | none
+[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) | [Jose Portilla](https://www.udemy.com/user/joseportilla/) | 6 weeks | 4-6 hours/week | self-paced | none 
+[The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/) | [Colt Steele](https://www.udemy.com/course/the-modern-python3-bootcamp/?couponCode=24T4FS22124#instructor-1) | 7 weeks | 4-6 hours/week | 
+[Learn Python](http://www.learnpython.org/) | 
+    
     - [Awesome-python](https://github.com/CodementorIO/Python-Learning-Resources/)
     - [Think Python](http://www.greenteapress.com/thinkpython/)
     - [Learn Python](http://www.learnpython.org/)
