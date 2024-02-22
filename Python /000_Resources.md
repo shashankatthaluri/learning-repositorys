@@ -64,4 +64,4 @@ Book name | Author | Chapters | Effort | Frequency | Prerequisites | pdf
  
 ### Disclaimer & Disclosure ⚠
 
-  I got this table format inspiration from [Forrestknight](https://github.com/ForrestKnight/open-source-cs). Just the format not the content 😉!
+  I used the table style idea from [Forrestknight](https://github.com/ForrestKnight/open-source-cs) 📊, but I created my own content for it 😉!
