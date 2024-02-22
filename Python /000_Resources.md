@@ -61,3 +61,7 @@ Book name | Author | Chapters | Effort | Frequency | Prerequisites | pdf
   - [Python Basic Tutorials by **SentDex**](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdFqJtqsyeEewqVm_7VRrlD)
   - [Python 3.4 Programming Tutorials by **thenewboston**](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
   - [Python3 for Beginners by **The Net Ninja**](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
+ 
+### Disclaimer & Disclosure ⚠
+
+  I got this table format inspiration from [Forrestknight](https://github.com/ForrestKnight/open-source-cs). Just the format not the content 😉!
